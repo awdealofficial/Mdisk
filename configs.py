@@ -8,9 +8,9 @@ class Config(object):
     API_HASH = os.environ.get("API_HASH", "30fa091455c0548d77dc254f0bb705b0)
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "5477733402:AAHLAfB4vF1PVtFzCHEy_OhwJZvAaw0cYgE")
     BOT_SESSION_NAME = os.environ.get("BOT_SESSION_NAME", "MdiskSearchBot")
-    USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "BQAP2NOf_VYlDypIOzq78INrLFxAC322KbDSUh8c6wVIvcRlG1inXlmLaJLHoDEmVL6sbAT_3pcMOexk-ep3UjBwd79b84NxvaC499i7dho0rZB6NGRqpzkAKd1WTtJWrqW4wkDz1zutCXypnUGHeQNs_i9u5TEWsLGEihv0mrqZNa-MxtuHHrUt7BlYFhymMtjFZVOWBqvs9PeJ77eNDPWLKpCiyUpq6117cj1NXqQS15lwo7S7x1fpu4oAaS_NyI6ki7yhlgw5Cvj6YBDoKBL-rdubj_nYXoO1dkCr6QyVGXZmH6ijZzdUyyGWCHYmC9rz0hWD1RCeFvs9gkECvZo0AAAAADQzMu0A")
+    USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "1BVtsOHkBu1tToP-XwodSsUyBzjxhTlT4DADFRV4d6pOv0R195eL2LI5r5BWzfY-1WpAaZYC0mypoGQdQQdsQZNpIAdC4geybfZQqtC9EkODCxFmafd6WlKV1VRrT9TiVrFqWCz_-6LLiSPEpEFI3xLWR8qK_6yiI_SAnmkp24BtiKlSksXb7AmgjpwmXPC1FbJcUfg70GHK5KRJ70wdejgHP10P4wfBv_bPRj0FGbvCHNz-oX7i9DAWQl0-L4XkvScjAmYV6z3vcf59gVtEL7R92I9ZRmcDe3n_7_YM6dOM8-302guO_94TfaLU0_fe4XHQRah9rj1mQE4rIyLtQe-R8z0-P-Rs=")
     CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001668318959"))
-    BOT_USERNAME = os.environ.get("BOT_USERNAME" , "marvel_dc_home")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME" , "File_to_Link_TGBOT")
     BOT_OWNER = int(os.environ.get("BOT_OWNER" ,"875770605"))
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL"),( None)
     ABOUT_BOT_TEXT = """<b>This is Mdisk Search Bot.
